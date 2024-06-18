@@ -2,7 +2,7 @@
 
 This is a simple number guessing game built with HTML, CSS, and JavaScript. The game generates a secret number between 1 and 20, and your goal is to guess it!
 
-![Dashboard](image/image.png)
+![Dashboard](assets/image.png)
 
 ## Project Structure
 
